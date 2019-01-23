@@ -1,8 +1,8 @@
-#Tableau 10 Business Intelligence Cookbook
+# Tableau 10 Business Intelligence Cookbook
 This is the code repository for [Tableau 10 Business Intelligence Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tableau-10-business-intelligence-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786465634), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 By the end of this book, you’ll have gained confidence and competence to analyze and communicate data and insights more efficiently and effectively by creating compelling interactive charts, dashboards, and stories in Tableau.
-##Instructions and Navigations
+## Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
@@ -31,5 +31,5 @@ you.
 * [Tableau Data Visualization Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tableau-data-visualization-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849689786)
 
 * [Oracle Business Intelligence 11g R1 Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/oracle-business-intelligence-11g-r1-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849686006)
-###Suggestions and Feedback
+### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
